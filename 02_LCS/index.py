@@ -1,0 +1,3 @@
+def lcs(input: list[int]) -> list[int]:
+    # Implement this function
+    ...
